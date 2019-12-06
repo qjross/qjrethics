@@ -1,0 +1,22 @@
+.flex-container{
+flex-direction:column;
+    background-color: cadetblue;
+    justify-content:flex-start;
+    width:200px;
+    
+}
+
+.nav-link{
+    color:white;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
+
+*{
+    font-family:sans-serif;
+}
